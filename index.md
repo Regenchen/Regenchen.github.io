@@ -5,14 +5,14 @@ title: Home
 
 ## Welcome!
 
-This is my personal blog. Posts are, in most cases, about my research experiences in **education** and **developmental psychology**. Cultures, linguistics and sociology are the other things I would like to discuss here.
+This is my personal blog. Posts are, in most cases, about my research experiences/ideas in **Education** and **Developmental Psychology**. Cultures, linguistics and sociology are the other things I would like to discuss here.
 
 
 ## Me
 I'm currently a research assistant at Harvard Graduate School of Education.
 
 
-## Career
+## Research
 
 - **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
 	+ ML research on time series clustering, anomaly detection, ensemble learning
@@ -25,13 +25,18 @@ I'm currently a research assistant at Harvard Graduate School of Education.
 
 ## Education
 
--  **École polytechnique fédérale de Lausanne \| 2015 - 2018**
-	+ Master degree in Computational Science and Engineering
+-  **Harvard University \| 2020 - 2021**
+	+ Master of Education in Human Development and Psychology
 
 []() <!--as blank line-->
 
-- **Zhejiang University \| 2011 - 2015**
-	+ Bachelor degree in Energy Engineering
+- **Zhejiang University \| 2016 - 2020**
+	+ Bachelor of Education in Pedagogy
+
+[]() <!--as blank line-->
+
+- **Hangzhou No.2 High School of Zhejiang Province \| 2013 - 2016**
+
 
 
 ## Stacks
