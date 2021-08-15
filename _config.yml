@@ -3,8 +3,8 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        /:year-:month-:day/:title
+relative_permalinks: false
 
 # Setup
 title:            Regenchen
