@@ -1,8 +1,6 @@
 ---
 layout: post
-title: About
-permalink: /about/
-standalone: true
+title: Home
 ---
 
 ## Welcome!
