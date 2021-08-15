@@ -10,6 +10,7 @@ This is my personal blog. Posts are, in most cases, about education and developm
 
 ## Me
 Human Development and Psychology Ed.M
+
 I'm currently a research assistant at **Harvard Graduate School of Education**.
 
 
