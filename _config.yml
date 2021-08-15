@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Regenchen
+tagline:          'The blog of Yuchen Jin'
+description:      'The blog of Yuchen Jin'
+url:              http://regenchen.github.io
+baseurl:          /
+
+author:
+  name:           'Yuchen Jin'
+  url:            github.com/Regenchen
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/Regenchen/Regenchen.github.io
