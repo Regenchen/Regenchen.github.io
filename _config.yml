@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
 
 # Setup
 title:            Regenchen
@@ -20,7 +19,8 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          2.1.0
 
 github:
   repo:           https://github.com/Regenchen/Regenchen.github.io
+
