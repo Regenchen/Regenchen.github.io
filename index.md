@@ -5,12 +5,12 @@ title: Home
 
 ## Welcome!
 
-This is my personal blog. Posts are, in most cases, about data science. Sports, linguistics, investment and life progresses are the other things I would like to discuss here.
+This is my personal blog. Posts are, in most cases, about education and developmental psychology. Cultures, linguistics and sociology are the other things I would like to discuss here.
 
 
 ## Me
-
-I'm currently working for **Alibaba Cloud**.
+Human Development and Psychology Ed.M
+I'm currently a research assistant at **Harvard Graduate School of Education**.
 
 
 ## Career
