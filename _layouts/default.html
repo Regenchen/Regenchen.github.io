@@ -1,16 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en-us'}}">
+<html lang="en">
 
   {% include head.html %}
 
-  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <h2 class="nav-title">{{ site.title }}</h2>
+        </a>
+        <ul>
+          <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ '/tags' | prepend: site.baseurl }}">Tags</a></li>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+        </ul>
+    </div>
+  </nav>
 
-    {% include sidebar.html %}
-
-    <main class="container">
+    <main>
       {{ content }}
     </main>
 
-    {% include custom-foot.html %}
+    <footer>
+      <span>
+        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      </span>
+    </footer>
   </body>
 </html>
