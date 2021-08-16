@@ -2,39 +2,17 @@
 layout: default
 ---
 
-<div class="post">
-  {% unless page.standalone %}
-  <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
-
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
-  </div>
-  {% endunless %}
-
+<header>
   <h1 class="post-title">{{ page.title }}</h1>
-  {% unless page.standalone %}
-  <div class="post-line"></div>
-  {% endunless %}
+</header>
+<div class="content">
+  {% include post-meta.html post=page %}
 
-  {{ content }}
+  <div class="post-body">
+    {{ content }}
+    {% include post-tags.html post=page %}
+  </div>
 
-</div>
-
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-
-  <a href="#" class="top">Top</a>
+  {% include comments.html %}
+  {% include related_posts.html %}
 </div>

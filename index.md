@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Home
+layout: index
+title: About
 ---
 
 ## Welcome!
@@ -15,8 +15,8 @@ I'm currently a research assistant at Harvard Graduate School of Education.
 ## Research
 
 - **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
-	+ ML research on time series clustering, anomaly detection, ensemble learning
-	+ Backend Development of AIOps system, data stream processor, automated ML pipeline
+  + ML research on time series clustering, anomaly detection, ensemble learning
+  + Backend Development of AIOps system, data stream processor, automated ML pipeline
 
 []()
 
@@ -26,12 +26,12 @@ I'm currently a research assistant at Harvard Graduate School of Education.
 ## Education
 
 -  **Harvard University \| 2020 - 2021**
-	+ Master of Education in Human Development and Psychology
+  + Master of Education in Human Development and Psychology
 
 []() <!--as blank line-->
 
 - **Zhejiang University \| 2016 - 2020**
-	+ Bachelor of Education in Pedagogy
+  + Bachelor of Education in Pedagogy
 
 []() <!--as blank line-->
 
@@ -58,4 +58,3 @@ I'm currently a research assistant at Harvard Graduate School of Education.
 - [LinkedIn](https://www.linkedin.com/in/jiaxigu/)
 - [Douban](https://www.douban.com/people/macnir/)
 - [Email](mailto:mcjxgu@163.com)
-

@@ -1,32 +1,35 @@
-# Permalinks
-permalink:      /:year-:month-:day/:title
+remote_theme: fongandrew/hydeout
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
 
 # Setup
-title:          Educational Sauna
-paginate:       5
-paginate_path:  "/blogs/:num"
-baseurl:        ""
-url:            "https://regenchen.github.io"
+title:            Yuchen Jin
+tagline:          ''
+description:      'Research Assistant, Harvard Graduate School of Education'
+url:              https://regenchen.github.io
+baseurl:          ''
+                  # the optional subpath of your site, e.g. "/blog"
+                  # NB: This applies to all pages in your Jekyll site.
+                  # If you want to move just the blog index pages but keep
+                  # other pages at root, see the paginate_path and
+                  # sidebar_blog_link below.
 
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        :compressed
-
-# Build settings
-markdown:       kramdown
-
-# About
 author:
-  name:         Yuchen Jin
-  url:          github.com/regenchen
-  email:        
+  name:           'Yuchen Jin'
+  url:            https://regenchen.github.io
 
-# Custom vars
-version:        3.4.1
-github:
-  repo:         https://github.com/Regenchen/Regenchen.github.io
+paginate:         5
+paginate_path:    '/blogs/:num'
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
 
-# Gems
-gems:
+plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
+
+# Sidebar link settings
+sidebar_home_link:  true
+sidebar_blog_link:  '/blogs'
