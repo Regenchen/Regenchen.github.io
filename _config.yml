@@ -4,6 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Educational Sauna
 paginate:       5
+paginate_path:  "/blogs/:num"
 baseurl:        ""
 url:            "https://regenchen.github.io"
 
