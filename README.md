@@ -1,4 +1,4 @@
-# Pyrenees Alpaca
+# Yuchen Jin's Blog
 
 My personal blog.
 
