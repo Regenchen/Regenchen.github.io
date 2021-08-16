@@ -4,3 +4,4 @@ _site
 .DS_Store
 .idea/
 .bash_profile
+.Rhistory
