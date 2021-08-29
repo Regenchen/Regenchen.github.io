@@ -10,6 +10,7 @@ This is my personal blog. Posts are, in most cases, about my research experience
 
 ## Me
 ![](https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg =250x250)
+<img src="https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg" width="200" height="200">
 I'm currently a research assistant at Harvard Graduate School of Education.
 
 ## Research
