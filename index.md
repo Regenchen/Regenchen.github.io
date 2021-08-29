@@ -9,8 +9,8 @@ This is my personal blog. Posts are, in most cases, about my research experience
 
 
 ## Me
+![me](https://github.com/Regenchen/Regenchen.github.io/blob/7209d466247f8d4e2436713d3406a1ffd38692ce/assets/me.jpeg "Small example image")
 I'm currently a research assistant at Harvard Graduate School of Education.
-
 
 ## Research
 
@@ -26,7 +26,7 @@ I'm currently a research assistant at Harvard Graduate School of Education.
 ## Education
 
 -  **Harvard University \| 2020 - 2021**
-  + Master of Education in Human Development and Psychology
+   + Master of Education in Human Development and Psychology
 
 []() <!--as blank line-->
 
@@ -42,7 +42,7 @@ I'm currently a research assistant at Harvard Graduate School of Education.
 ## Stacks
 
 - **Programming** `Python` `Java` `Golang` `Groovy` `Lua`
-- **Languages** `Chinese` `English` `German` `French`
+- **Languages** `Mandarin Chinese` `English` `German`
 - **Machine Learning** `Anomaly Detection` `Knowledge Vault` `Ensemble Learning`
 
 
