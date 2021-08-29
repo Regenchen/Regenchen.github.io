@@ -9,7 +9,7 @@ This is my personal blog. Posts are, in most cases, about my research experience
 
 
 ## Me
-![](https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg =200×200)
+![](https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg =250x250)
 I'm currently a research assistant at Harvard Graduate School of Education.
 
 ## Research
