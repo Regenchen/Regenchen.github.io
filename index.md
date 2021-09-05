@@ -3,14 +3,9 @@ layout: index
 title: About Me
 ---
 
-## Welcome!
 <img src="https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg" width="200" height="200">
-I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Education. This is my personal blog to share with you, in most cases, my research experiences/ideas in **Education** and **Developmental Psychology**. Cultures, linguistics and sociology are the other things I would like to discuss here.
+Welcome to my web page! I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Education. Here I'd like to share with you, in most cases, my research experiences/ideas in **Education** and **Developmental Psychology**. Cultures, linguistics and sociology are the other things I would like to discuss here.
 
-
-## Me
-<img src="https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg" width="200" height="200">
-I'm currently a research assistant at Harvard Graduate School of Education.
 
 ## Research
 
