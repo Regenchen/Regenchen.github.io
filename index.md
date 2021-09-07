@@ -54,7 +54,5 @@ I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Ed
 
 ## Contact
 
-- [GitHub](https://github.com/Jiaxigu)
-- [LinkedIn](https://www.linkedin.com/in/jiaxigu/)
-- [Douban](https://www.douban.com/people/macnir/)
-- [Email](mailto:mcjxgu@163.com)
+- [LinkedIn](www.linkedin.com/in/-yuchen-jin)
+- [Email](regenchenjyc@gmail.com)
