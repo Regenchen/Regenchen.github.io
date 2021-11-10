@@ -5,22 +5,9 @@ title: About Me
 
 []()
 
-[]()
-
 <img src="https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me.jpeg" width="200" height="200">
 Welcome to my web page! 
 I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Education. Here, I'd like to share with you, in most cases, my research experiences/ideas in **Education** and **Developmental Psychology**. Cultures, linguistics and sociology are the other things I would like to discuss here.
-
-
-## Research
-
-- **Senior Machine Learning Engineer \| Alibaba Cloud, Hangzhou, China \| 2018 -**
-  + ML research on time series clustering, anomaly detection, ensemble learning
-  + Backend Development of AIOps system, data stream processor, automated ML pipeline
-
-[]()
-
-- **Data Science Intern \| TalkingData, Beijing, China \| 2017 - 2018**
 
 
 ## Education
@@ -38,21 +25,8 @@ I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Ed
 - **Hangzhou No.2 High School of Zhejiang Province \| 2013 - 2016**
 
 
-
-## Stacks
-
-- **Programming** `Python` `Java` `Golang` `Groovy` `Lua`
-- **Languages** `Mandarin Chinese` `English` `German`
-- **Machine Learning** `Anomaly Detection` `Knowledge Vault` `Ensemble Learning`
-
-
-## Addicts
-- Music: House, Britpop, Classical
-- Literature and Film: Albert Camus, Christopher Nolan
-- Sports: Football, Road Cycling
-
-
 ## Contact
 
 - [LinkedIn](www.linkedin.com/in/-yuchen-jin)
 - [Email](regenchenjyc@gmail.com)
+
