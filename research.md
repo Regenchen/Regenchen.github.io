@@ -23,7 +23,7 @@ sidebar_link: true
 -  **Early Math Learning in Chinese Families**
    + Children demonstrate various levels of mathematical skills even before formal schooling, with Chinese children consistently showing superior performance. By examining families in China, this study aims to detect how Chinese parenting support early math learning. Another purpose of our research is to understand whether and how multiple factors in the early home environment, such as socio-economic background, parental beliefs, and child gender shape children’s mathematical experiences under Chinese social and cultural contexts.
 
--  **Rural Teacher Training for** ***One Village One Preschool*** **Project\* **
+-  **Rural Teacher Training for** ***One Village One Preschool*** **Project\***
    + *One Village One Preschool* is the only nation-wide early child education intervention in rural China. Having expanded the ECE access to over 60,000 children in 11 provinces in mountainous midwest parts of China, the project now aims to lift the quality of the intervention. The current research aims to contribute to this process by examining whether the professional development for local teachers successfully promotes classroom quality and satisfies teachers' needs. Suggestions are also discussed on how to improve rural teacher training. 
 
 []() <!--as blank line-->
