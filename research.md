@@ -47,7 +47,7 @@ sidebar_link: true
 
 []() <!--as blank line-->
 
-## Interesting Course Work
+## Notable Coursework
 
 -  **Peers matter: how does mental/behavior health predict academic performance**
    + Data analysis report
