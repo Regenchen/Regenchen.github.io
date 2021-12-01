@@ -50,7 +50,7 @@ sidebar_link: true
 ## Notable Coursework
 
 -  **Peers matter: how does mental/behavior health predict academic performance**
-   + Data analysis report
+   + Data analysis report (Structural equation modeling)
 
 -  **Literature review: the development of imagination in children**
    + Brief literature review
