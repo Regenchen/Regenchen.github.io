@@ -28,6 +28,6 @@ I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Ed
 
 ## Contact
 
-- [LinkedIn](www.linkedin.com/in/-yuchen-jin)
-- [Email](mailto:regenchenjyc@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/-yuchen-jin)
+- [Email]<regenchenjyc@gmail.com>
 
