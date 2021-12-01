@@ -29,5 +29,5 @@ I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Ed
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/-yuchen-jin)
-- [Email](mailto:regenchenjyc@gmail.com)
+- [Email](mailto:regenchenjyc@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
