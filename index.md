@@ -27,9 +27,11 @@ I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Ed
 []() <!--as blank line-->
 
 - **Hangzhou No.2 High School of Zhejiang Province \| 2013 - 2016**
+  + The school serves as a permanent venue of Harvard Summit for Young Leaders in China.
 
 []() <!--as blank line-->
 []() <!--as blank line-->
+
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/-yuchen-jin)
