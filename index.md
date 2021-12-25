@@ -8,7 +8,7 @@ title: About Me
 <img src="https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me%20maple.jpeg" width="40%">
 Welcome to my web page! 
 I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Education. Here, I'd like to share with you, in most cases, my research experiences and ideas in **Education** and **Developmental Psychology**. Early language and social-cognitive development is what I am most enthusiastic about.
-[**Latest CV (Dev.3)**](https://drive.google.com/drive/folders/1zwWLc33FSgiP55ew7Q8fqoE6jllC0EiT?usp=sharing)
+[**Latest CV (Dev.25th)**](https://drive.google.com/drive/folders/1zwWLc33FSgiP55ew7Q8fqoE6jllC0EiT?usp=sharing)
 
 []() <!--as blank line-->
 []() <!--as blank line-->
@@ -27,7 +27,7 @@ I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Ed
 []() <!--as blank line-->
 
 - **Hangzhou No.2 High School of Zhejiang Province \| 2013 - 2016**
-  + The school serves as a permanent venue of Harvard Summit for Young Leaders in China.
+  + Ranked fifth among Chinese high schools (the China Branch of the Washington DC Research Center, 2013)
 
 []() <!--as blank line-->
 []() <!--as blank line-->
