@@ -4,6 +4,10 @@ title: Research
 sidebar_link: true
 ---
 
+## Overview
+Language is the wisdom that we are blessed with, and more importantly, build up together. My research experiences stretch across two aspects of early language learning, namely the inner cognitive mechanism and the environmental factors. For the former, I have been intrigued by infants' spoken word recognition and children's social-cognition development. For the latter, I am always interested in parent-child interaction and parental decontextualized talk. These research makes me wonder how parental input interacts with children's language learning mechanism: How does parental input facilitate the learning of abstract words? Does the input also contribute to of children’s learning ability, apart from providing linguistic data?
+
+
 ## Toolbox
 
 + **Statistics**: Multilevel Models, Growth Curve Analysis, Structural Equation Modeling
