@@ -22,6 +22,12 @@ These two aspects, usually being looked at separately though, intrigue me to thi
 
 *(\*: independent research)*
 
+-  **Tseltal Adults' Responses to Children in Turn-taking**
+
+
+-  **Early Word Learning through Overheard Speech**
+
+
 -  **Development of Children’s Meta-cognition across Cultures**
    + *Know* and *think* are the most commonly used cognitive words in English. However, little is known about how these two words are acquired and used by young children over the course of their development. Research on how children use the two words can shed light on the development of meta-cognition, especially children’s understanding of belief and knowledge.  
    + Poster under review at Biennial Conference of the Cognitive Development Society 2022
