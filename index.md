@@ -17,7 +17,7 @@ I am Yuchen Jin, currently a PhD student in Comparative Human Development, Unive
 ## Education
 
 -  **University of Chicago \| 2022 - present**
-   + PhD student in Comparative Human Development
+   + PhD student in Comparative Human Development (advisor: [Dr. Marisa Casillas](https://chatterlab.uchicago.edu/bios/marisa-aboutme/))
 
 []() <!--as blank line-->
 
