@@ -7,13 +7,19 @@ title: About Me
 
 <img src="https://raw.githubusercontent.com/Regenchen/Regenchen.github.io/master/assets/me%20maple.jpeg" width="40%">
 Welcome to my web page! 
-I am Yuchen Jin, currently a research assistant at Harvard Graduate School of Education. Here, I'd like to share with you, in most cases, my research experiences and ideas in **Education** and **Developmental Psychology**. Early language and social-cognitive development is what I am most enthusiastic about.
-[**Latest CV (Dev.25th)**](https://drive.google.com/drive/folders/1zwWLc33FSgiP55ew7Q8fqoE6jllC0EiT?usp=sharing)
+I am Yuchen Jin, currently a PhD student in Comparative Human Development, University of Chicago. Here, I'd like to share with you, in most cases, my research experiences and ideas in **Education** and **Developmental Psychology**. Broadly, my research interests include child lingusitic and communicative development, parent-child interaction, and in particular, how children become adapted to conversational turn-taking.
+
+[**Latest CV (Dev.25th, 2022)**](https://drive.google.com/drive/folders/1zwWLc33FSgiP55ew7Q8fqoE6jllC0EiT?usp=sharing)
 
 []() <!--as blank line-->
 []() <!--as blank line-->
 
 ## Education
+
+-  **University of Chicago \| 2022 - present**
+   + PhD student in Comparative Human Development
+
+[]() <!--as blank line-->
 
 -  **Harvard University \| 2020 - 2021**
    + Master of Education in Human Development and Psychology
